@@ -1,9 +1,9 @@
-<div align="center">
+<div align="Center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </div>
 
 <div align="center">
-
+  
 ### 👋 **Hello, I'm Okky aka OrionShii**
 
 **Computer Science Student** passionate about exploring the intersection of technology and innovation. Currently diving deep into modern development practices while building projects that matter.
@@ -28,12 +28,14 @@
 
 </div>
 
-<br clear="right"/>
+---
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=OrionshiiV2&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" width="700">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrionShiiV2&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" style="float: left;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="Streak Github" width="48%" style="float: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" width="48%" style="float: right;">
 </div>
-
+<br clear="both">
 ---
 
 ### 🌟 **Why I Code**

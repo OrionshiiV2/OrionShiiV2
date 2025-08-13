@@ -1,41 +1,56 @@
-<div align="Center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
-
 <div align="center">
   
-### 👋 **Hello, I'm Okky aka OrionShii**
+# 👋 Hello, I'm Okky aka OrionShii
 
-**Computer Science Student** passionate about exploring the intersection of technology and innovation. Currently diving deep into modern development practices while building projects that matter.
+**Computer Science Student | Tech Enthusiast | Problem Solver**
 
-</div>
-
-<div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300">
-
-🎓 **Academic Journey:** Pursuing Computer Science with a focus on practical application and real-world problem solving.
-
-🚀 **Areas of Interest:**
-- **Full Stack Development** - Building end-to-end web applications
-- **Web3 & Blockchain** - Exploring decentralized technologies and smart contracts  
-- **Game Development** - Creating interactive and immersive experiences
-- **Internet of Things (IoT)** - Connecting the physical and digital worlds
-- **Artificial Intelligence** - Machine learning, neural networks, and intelligent automation
-
-💡 **Current Learning:** Always expanding my knowledge in emerging technologies while strengthening my foundation in computer science fundamentals.
-
-🎯 **Goal:** To contribute meaningful solutions to the tech industry while continuously learning and growing as a developer.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub Stats" width="40%">
 
 </div>
 
 ---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OrionShiiV2&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" style="float: left;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="Streak Github" width="48%" style="float: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" width="48%" style="float: right;">
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 About Me
+Currently pursuing Computer Science with passion for building innovative solutions and exploring cutting-edge technologies.
+
+### 🚀 Tech Stack & Interests
+• **Full Stack Development** - Web applications  
+• **Web3 & Blockchain** - Decentralized tech  
+• **Game Development** - Interactive experiences  
+• **IoT** - Connected systems  
+• **AI/ML** - Smart automation  
+
+### 🎯 Goal
+Building impactful projects while continuously learning and growing in the tech world.
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="GitHub Streak Stats" width="100%">
 </div>
-<br clear="both">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=OrionShiiV2&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="48%">
+
+</div>
+
 ---
 
 ### 🌟 **Why I Code**
@@ -47,8 +62,6 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250">
 </div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Tech Stack**
 
@@ -828,39 +841,21 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Connect & Collaborate**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/>
-  <b>Let's build the future together!</b>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/orionshiiv2">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9cc5e1.gif" width="100"/>
+  <a href="https://linkedin.com/in/okkytw">
+    <img src="https://cdn.dribbble.com/userupload/19914420/file/original-fa73e948d55a3424ad17c41c939c4059.gif" width="100"/>
   </a>
-  <a href="https://twitter.com/orionshiiv2">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"/>
+  <a href="https://x.com/Okky_Dev">
+    <img src="https://www.menosfios.com/wp-content/uploads/2016/07/Twitter_GIF.gif" width="150"/>
   </a>
-  <a href="https://discord.gg/orionshiiv2">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/>
+  <a href="https://discordapp.com/users/499857987339288576">
+    <img src="https://i.pinimg.com/originals/e7/ab/03/e7ab03bac23eb9b3f5bd67ba27ca7b08.gif" width="120"/>
   </a>
-  <a href="mailto:orionshiiv2@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"/>
+  <a href="https://www.facebook.com/zennshii05">
+    <img src="https://i.pinimg.com/originals/cb/d4/56/cbd45614b43ab8321ac8140dc54863bb.gif" width="100"/>
   </a>
 </div>
 
 <br>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orionshiiv2)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/orionshiiv2)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/orionshiiv2)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orionshiiv2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://orionshiiv2.dev)
-
-</div>
 
 ---
 

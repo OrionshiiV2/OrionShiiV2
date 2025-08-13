@@ -16,39 +16,23 @@
 ## 🎓 About Me
 Just a curious mind wandering through the world of **Computer Science** — tinkering, breaking, fixing, and occasionally building things people actually use. I believe in learning by doing and turning ideas into reality through code.
 
----
-
-## 🚀 Tech Stack & Interests
-
-<div align="left">
-
-🌐 **Full Stack Development**  
-*Turning coffee into code for the web*
-
-⛓️ **Web3 & Blockchain**  
-*Because decentralization feels like the future*
-
-🎮 **Game Development**  
-*Making pixels move with purpose (and a bit of chaos)*
-
-🔗 **IoT**  
-*Teaching gadgets to talk to each other*
-
-🤖 **AI/ML**  
-*Training machines to be just a little less clueless*
-</div>
+🌐 **Full Stack Development** — *Turning coffee into code for the web*  
+⛓️ **Web3 & Blockchain** — *Because decentralization feels like the future*  
+🎮 **Game Development** — *Making pixels move with purpose (and a bit of chaos)*  
+🔗 **IoT** — *Teaching gadgets to talk to each other*  
+🤖 **AI/ML** — *Training machines to be just a little less clueless*
 
 ---
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="GitHub Streak Stats" width="55%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="GitHub Streak Stats" width="50%">
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OrionShiiV2&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=OrionShiiV2&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" width="45%">
 
 </div>
 
@@ -66,7 +50,7 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Tech Stack**
 
-<details open>
+<details>
 <summary><b><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20"> Programming Languages</b></summary>
 <br>
 <div align="center">
@@ -653,8 +637,10 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 
 <div align="center">
   <a href="https://ko-fi.com/orionshii">
-    <img src="https://user-images.githubusercontent.com/74038190/212284126-944d1ce8-102c-4eb4-9621-11c0b8723fdb.gif" width="180"/>
+    <img src="https://storage.ko-fi.com/cdn/cup-border.png" width="50"/>
+    
   </a>
+  
   <a href="https://github.com/sponsors/OrionshiiV2">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
   </a>

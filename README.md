@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👋 **Hello, I'm OrionshiiV2**
+### 👋 **Hello, I'm Okky aka OrionShii**
 
 **Computer Science Student** passionate about exploring the intersection of technology and innovation. Currently diving deep into modern development practices while building projects that matter.
 
@@ -48,7 +48,7 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 
 ---
 
-# Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Tech Stack**
 
 <details open>
 <summary><b><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20"> Programming Languages</b></summary>
@@ -823,31 +823,6 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Current Tech Focus**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/><br>
-<b>🚀 Next.js 14 + TypeScript</b><br>
-<sub>Full-stack applications with App Router</sub>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="80"/><br>
-<b>⛓️ Web3 Integration</b><br>
-<sub>Smart contracts & DeFi protocols</sub>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/><br>
-<b>🤖 AI/ML Integration</b><br>
-<sub>LangChain & OpenAI API</sub>
-</td>
-</tr>
-</table>
-</div>
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Connect & Collaborate**
 
 <div align="center">
@@ -903,10 +878,6 @@ As a student, I believe in learning by doing. Every project is an opportunity to
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Innovation%20Never%20Sleeps&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/>

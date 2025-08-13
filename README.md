@@ -1,6 +1,5 @@
 <div align="center">
-  
-# 👋 Hello, I'm Okky aka OrionShii
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5BC0EB&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub🌸;Hello+Visitor!+I'm+Okky;aka+OrionShii;Full+Stack+&+Game+Developer;AI+%26+Blockchain+Enthusiast" alt="Typing SVG" />
 
 **Computer Science Student | Tech Enthusiast | Problem Solver**
 
@@ -10,44 +9,48 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 About Me
-Currently pursuing Computer Science with passion for building innovative solutions and exploring cutting-edge technologies.
-
-### 🚀 Tech Stack & Interests
-• **Full Stack Development** - Web applications  
-• **Web3 & Blockchain** - Decentralized tech  
-• **Game Development** - Interactive experiences  
-• **IoT** - Connected systems  
-• **AI/ML** - Smart automation  
-
-### 🎯 Goal
-Building impactful projects while continuously learning and growing in the tech world.
-
-</td>
-<td width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+# Hi there! 👋 I'm OrionShii
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="GitHub Streak Stats" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600" alt="Coding Animation">
 </div>
 
-</td>
-</tr>
-</table>
+## 🎓 About Me
+Just a curious mind wandering through the world of **Computer Science** — tinkering, breaking, fixing, and occasionally building things people actually use. I believe in learning by doing and turning ideas into reality through code.
+
+---
+
+## 🚀 Tech Stack & Interests
+
+<div align="left">
+
+🌐 **Full Stack Development**  
+*Turning coffee into code for the web*
+
+⛓️ **Web3 & Blockchain**  
+*Because decentralization feels like the future*
+
+🎮 **Game Development**  
+*Making pixels move with purpose (and a bit of chaos)*
+
+🔗 **IoT**  
+*Teaching gadgets to talk to each other*
+
+🤖 **AI/ML**  
+*Training machines to be just a little less clueless*
+</div>
 
 ---
 
 <div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrionShiiV2&theme=react&hide_border=true" alt="GitHub Streak Stats" width="60%">
+</div>
 
-### 📊 GitHub Stats
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=OrionShiiV2&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionShiiV2&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" width="48%">
 
 </div>
 

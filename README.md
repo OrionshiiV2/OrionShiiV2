@@ -40,7 +40,7 @@ Just a curious mind wandering through the world of **Computer Science** — tink
 
 ### 🌟 **Why I Code**
 
-> *"Technology is not just about solving problems—it's about imagining possibilities that don't exist yet and bringing them to life through code."*
+> *"Technology is not just about solving problems - it's about imagining possibilities that don't exist yet and bringing them to life through code."*
 
 As a student, I believe in learning by doing. Every project is an opportunity to explore new technologies, tackle challenging problems, and contribute to the ever-evolving landscape of software development.
 
